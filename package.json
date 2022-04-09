@@ -1,0 +1,15 @@
+{
+  "name": "supervillains",
+  "version": "1.0.0",
+  "description": "supervillains",
+  "main": "index.js",
+  "scripts": {
+    "test": "var supervillains"
+  },
+  "author": "Orion Palmer",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "superheroes": "^3.0.0",
+    "supervillains": "^1.0.0"
+  }
+}
