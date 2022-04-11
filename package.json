@@ -9,6 +9,7 @@
   "author": "Orion Palmer",
   "license": "UNLICENSED",
   "dependencies": {
+    "pokemon": "^2.3.2",
     "superheroes": "^3.0.0",
     "supervillains": "^1.0.0"
   }
