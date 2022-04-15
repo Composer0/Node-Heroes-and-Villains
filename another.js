@@ -4,9 +4,9 @@ pokemon.all();
 
 pokemon.random();
 
-pokemon.getName(27);
+pokemon.getName(28);
 
-pokemon.getId('Dratini');
+pokemon.getId('Mewtwo');
 
 console.log(pokemon.getName(27));
 console.log(pokemon.all());
